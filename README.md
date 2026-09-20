@@ -37,3 +37,5 @@ If Android reports that the signatures do not match, uninstall an older build si
 This is a **release-only repository**. It contains release notes, the Rekha logo, and signed Android release assets. Application source code, build configuration, API credentials, signing keys, and backend code are not stored here.
 
 For support, email [rekha.app.support@gmail.com](mailto:rekha.app.support@gmail.com).
+
+Read the current [Terms of Service and Privacy Policy](https://rekha-product.pages.dev/legal.html) before using online or AI-assisted features.
