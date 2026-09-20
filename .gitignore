@@ -1,0 +1,18 @@
+# Release artifacts belong on GitHub Releases, not in the repository tree.
+*.apk
+*.aab
+SHA256SUMS.txt
+
+# Never commit credentials or signing material.
+.env*
+key.properties
+*.jks
+*.keystore
+google-services.json
+
+# Local tooling output.
+.dart_tool/
+build/
+.idea/
+.vscode/
+.DS_Store
